@@ -59,7 +59,7 @@ wysłać zmiany na GitHub.
 
 Dalej należy wejść w ustawienia repozytorium GitHub (`Settings` > `Pages`) i
 wystawić dystrybucję wersji produkcyjnej z folderu `/root` gałęzi `gh-pages`,
-jeśli nie zrobiło się to automatycznie.
+jeśli nie zrobiło się to automatycznie..
 
 ![GitHub Pages settings](./assets/repo-settings.png)
 
